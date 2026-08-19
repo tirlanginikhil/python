@@ -9,3 +9,6 @@ else:
             break
     else:
         print("Prime Number")
+# output:
+# Enter a number: 12
+# Not a Prime Number

@@ -19,3 +19,8 @@ else:
         print("Valid Date")
     else:
         print("Invalid Date")
+# output:
+# Enter year: 2012
+# Enter month: 2
+# Enter day: 12
+# Valid Date

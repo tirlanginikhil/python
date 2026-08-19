@@ -19,3 +19,9 @@ print("Vowels:", vowels)
 print("Consonants:", consonants)
 print("Digits:", digits)
 print("Spaces:", spaces)
+# # output:
+# Enter a string: apple
+# Vowels: 2
+# Consonants: 3
+# Digits: 0
+# Spaces: 0

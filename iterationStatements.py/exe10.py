@@ -8,3 +8,6 @@ while num > 0:
     num = num // 10
 
 print("Reversed number:", reverse)
+# output:
+# Enter a number: 123
+# Reversed number: 321

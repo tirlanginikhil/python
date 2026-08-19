@@ -11,3 +11,8 @@ else:
         print(z,"is largest")
     else :
         print(y,"is largest")
+# output:
+# enter first number12
+# enter second number13
+# enter third number14
+# 14 is largest

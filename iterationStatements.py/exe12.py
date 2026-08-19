@@ -10,3 +10,6 @@ while i <= n:
     a = b
     b = c
     i += 1
+# output:
+# Enter the number of terms: 4
+# 0 1 1 2 

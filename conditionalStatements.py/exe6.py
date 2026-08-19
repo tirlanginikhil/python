@@ -9,3 +9,6 @@ elif ch.isdigit():
     print("Digit")
 else:
     print("Special Symbol")
+# output:
+# Enter a character: a
+# Vowel

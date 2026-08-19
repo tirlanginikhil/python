@@ -8,3 +8,7 @@ for num in range(start, end + 1):
                 break
         else:
             print(num, end=" ")
+# output:
+# Enter lower limit: 0
+# Enter upper limit: 5
+# 2 3 5 

@@ -10,3 +10,6 @@ elif marks >= 40:
     print("Grade D")
 else:
     print("Grade F")
+# output:
+# Enter student's marks: 75
+# Grade B

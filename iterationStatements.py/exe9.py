@@ -14,3 +14,7 @@ average = sum_digits / count
 
 print("Sum of digits:", sum_digits)
 print("Average of digits:", average)
+# output:
+# Enter a number: 12
+# Sum of digits: 3
+# Average of digits: 1.5
