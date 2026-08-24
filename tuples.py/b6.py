@@ -6,3 +6,5 @@ if x in a:
     print("Value exists")
 else:
     print("Value does not exist")
+# output:
+# Value exists

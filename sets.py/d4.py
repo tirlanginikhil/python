@@ -5,3 +5,8 @@ print("Union:", a.union(b))
 print("Intersection:", a.intersection(b))
 print("Difference:", a.difference(b))
 print("Symmetric Difference:", a.symmetric_difference(b))
+# output:
+# Union: {1, 2, 3, 4, 5, 6}
+# Intersection: {3, 4}
+# Difference: {1, 2}
+# Symmetric Difference: {1, 2, 5, 6}

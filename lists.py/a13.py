@@ -14,3 +14,7 @@ for x in a:
 print("Maximum:", maximum)
 print("Minimum:", minimum)
 print("Sum:", total)
+# output:
+# Maximum: 40
+# Minimum: 5
+# Sum: 95

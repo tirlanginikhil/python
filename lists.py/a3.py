@@ -6,4 +6,6 @@ my_list.append(30)
 my_list.append(40)
 my_list.append(50)
 
-print("Final list:", my_list)
+# print("Final list:", my_list)
+# output:
+# Final list: [10, 20, 30, 40, 50]

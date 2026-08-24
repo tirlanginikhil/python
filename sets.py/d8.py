@@ -4,3 +4,5 @@ b = set(a)
 c = sorted(b)
 
 print(c)
+# output:
+# [10, 20, 30, 40]

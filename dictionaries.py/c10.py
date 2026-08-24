@@ -5,3 +5,6 @@ lowest = min(items, key=items.get)
 
 print("Highest:", highest)
 print("Lowest:", lowest)
+# output:
+# Highest: Bag
+# Lowest: Pencil

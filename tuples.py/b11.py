@@ -6,3 +6,5 @@ a[1].append(50)
 # So, the contents of the list can be changed.
 
 print(a)
+# output:
+# (10, [20, 30, 50], 40)

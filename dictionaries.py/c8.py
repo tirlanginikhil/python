@@ -6,3 +6,5 @@ if key in student:
     print(student[key])
 else:
     print("Key not found")
+# output:
+# 18

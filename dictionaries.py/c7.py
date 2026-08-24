@@ -5,3 +5,6 @@ print(student)
 
 x = student.get("phone", "Key not found")
 print(x)
+# output:
+# {'name': 'Rahul', 'mark': 85}
+# Key not found

@@ -5,3 +5,5 @@ c = a + b
 c.sort(reverse=True)
 
 print("Combined list:", c)
+# output:
+# Combined list: [60, 50, 40, 30, 20, 10]
