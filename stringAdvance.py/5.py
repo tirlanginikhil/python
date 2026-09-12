@@ -1,0 +1,6 @@
+string = input("Enter an identifier: ")
+
+if string.isidentifier():
+    print("Valid identifier")
+else:
+    print("Invalid identifier")
