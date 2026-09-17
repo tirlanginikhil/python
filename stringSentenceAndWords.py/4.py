@@ -7,3 +7,6 @@ for word in words:
     result = result + word[0].upper() + word[1:] + " "
 
 print("Title Case:", result)
+#output:
+# Enter a sentence: nikhil is good
+# Title Case: Nikhil Is Good 

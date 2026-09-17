@@ -7,3 +7,6 @@ for ch in string:
         result = result + ch
 
 print("After removing duplicates:", result)
+# output:
+# Enter a string: nikhil
+# After removing duplicates: nikhl

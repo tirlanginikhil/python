@@ -8,3 +8,6 @@ for word in words:
         longest = word
 
 print("Longest word:", longest)
+# output:
+# Enter a sentence: i am nikhil
+# Longest word: nikhil

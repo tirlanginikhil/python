@@ -5,3 +5,7 @@ if sorted(str1) == sorted(str2):
     print("Strings are anagrams")
 else:
     print("Strings are not anagrams")
+# output:
+# Enter first string: i am
+# Enter second string: nikhil
+# Strings are not anagrams
