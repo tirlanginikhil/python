@@ -31,7 +31,7 @@ if failed_rules:
         print("-", rule)
 else:
     print("Password is strong")
-output:
-Failed rules:
-- At least one uppercase letter
-- At least one symbol (!@#$%^&*)
+# output:
+# Failed rules:
+# - At least one uppercase letter
+# - At least one symbol (!@#$%^&*)

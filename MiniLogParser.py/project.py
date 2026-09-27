@@ -81,3 +81,19 @@ print("\nTask 5: ERROR Entries by User")
 for entry in sorted_entries:
     if entry["level"] == "ERROR":
         print(entry)
+# output:
+# Task 3: Summary
+# ERROR: 2
+# WARN : 1
+# INFO : 2
+
+# Task 4: Redacted Log
+# 2024-06-01 08:15:32 ERROR user=<hidden> msg=Disk full
+# 2024-06-01 08:16:10 WARN user=<hidden> msg=Low memory
+# 2024-06-01 08:17:05 INFO user=<hidden> msg=Login successful
+# 2024-06-01 08:18:20 ERROR user=<hidden> msg=Connection failed
+# 2024-06-01 08:19:45 INFO user=<hidden> msg=File opened
+
+# Task 5: ERROR Entries by User
+# {'timestamp': '2024-06-01 08:15:32', 'level': 'ERROR', 'user': 'john', 'msg': 'Disk full'}
+# {'timestamp': '2024-06-01 08:18:20', 'level': 'ERROR', 'user': 'ram', 'msg': 'Connection failed'}git add .
